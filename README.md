@@ -10,14 +10,11 @@ I'm a software developer 🧑🏼‍💻 specializing in mobile and web applicat
 
 <!-- ![Profile Banner](https://your-image-link.com) -->
 
----
-
 <h1 align="center">🚀 Projects</h1>
 
 - **ParkPal:** A smart parking system using IoT to solve urban parking issues.
 - **Fitness & Wellness Tracker:** A mobile app to monitor and improve your fitness journey.
-
----
+- **Cybria**: Blog Application with an impressive collection of articles on all things tech
 
 <h1 align="center">⚡Tech Stack</h1>
 
@@ -32,5 +29,5 @@ I'm a software developer 🧑🏼‍💻 specializing in mobile and web applicat
 <h1 align="center">👨‍💻 About Me</h1>
 
 - 🔭 I’m working on **IoT and Smart City Projects**
-- 🌱 I’m learning **DevOps** and **Web3 Development**
+- 🌱 I’m learning **Web3 Development**
 - 👯 I’m looking to collaborate on **Open Source Projects**
