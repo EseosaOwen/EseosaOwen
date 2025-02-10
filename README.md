@@ -29,5 +29,5 @@ I'm a software developer 🧑🏼‍💻 specializing in mobile and web applicat
 <h1 align="center">👨‍💻 About Me</h1>
 
 - 🔭 I’m working on **IoT and Smart City Projects**
-- 🌱 I’m learning **Web3 Development**
+- 🌱 I’m building **Online Presence Solutions**
 - 👯 I’m looking to collaborate on **Open Source Projects**
