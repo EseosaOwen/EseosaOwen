@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-%23000000.svg?style=flat&logo=Google-chrome&logoColor=white)](https://puissantdev.tech) [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/eseosa-o-2b894024a/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white)](https://x.com/PuissantDev) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/puissant_roi_owen/)
+[![Website](https://img.shields.io/badge/Website-%23000000.svg?style=flat&logo=Google-chrome&logoColor=white)](https://puissantdev.tech) [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/eseosa-owen/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white)](https://x.com/PuissantDev) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/puissant_roi_owen/)
 
 </div>
 
