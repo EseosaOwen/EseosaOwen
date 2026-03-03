@@ -1,5 +1,3 @@
-<h1 align="center">PuissantDev</h1>
-
 <div align="center">
 
 [![Website](https://img.shields.io/badge/Website-%23000000.svg?style=flat&logo=Google-chrome&logoColor=white)](https://puissantdev.tech) 
@@ -9,9 +7,9 @@
 
 </div>
 
-<h3 align="center">Building Systems That Help Businesses Sell, Retain & Grow 🚀</h3>
+<h2 align="center">Building Systems That Help Businesses Sell, Retain & Grow 🚀</h2>
 
-I design and build scalable digital systems that help vendors, restaurants, and modern businesses operate smarter.
+I design and build scalable digital systems that help service providers, vendors, restaurants, and modern businesses operate smarter.
 
 Not just websites.  
 Not just apps.  
@@ -22,40 +20,11 @@ Create technology that improves revenue visibility, customer retention, and long
 
 ---
 
-<h1 align="center">🚀 Core Projects</h1>
+<h1 align="center">🚀 Projects</h1>
 
-### 🧾 Involey  
-A vendor growth platform that helps small business owners:
-- Track payments
-- Understand customer behavior
-- Visualize revenue growth
-- Send professional invoices
-- Manage orders with clarity
-
-Built to move vendors from “guessing” to “growing.”
-
----
-
-### 🍽️ Customer Retention System (Restaurant Edition)  
-A plug-and-deploy system for restaurants that:
-- Captures customer data
-- Automates follow-ups
-- Increases repeat visits
-- Improves retention without complex software
-
-Designed as a fast 3–5 day deployment solution.
-
----
-
-### 🛒 E-Commerce Growth App  
-A commerce-focused web application designed to:
-- Simplify product selling
-- Improve checkout experience
-- Integrate customer insights
-- Enable structured online revenue tracking
-
-Built for scalability and international growth.
-
+- **Involey** – A vendor growth platform focused on revenue tracking, insights, and professional operations.
+- **Customer Retention System** – A structured retention engine for restaurants and service businesses.
+- **E-Commerce App** – Commerce infrastructure built for scalable online sales.
 ---
 
 <h1 align="center">⚡ Tech Stack</h1>
@@ -84,13 +53,4 @@ Built for scalability and international growth.
 - Build business infrastructure, not just features  
 - Help vendors transition from manual operations to structured systems  
 - Create scalable SaaS products with global potential  
-- Design solutions that increase retention, revenue, and operational clarity  
-
----
-
-<h1 align="center">📈 Current Focus</h1>
-
-- Product-led growth strategy  
-- Vendor success sessions & community building  
-- Subscription-based business systems  
-- International market expansion  
+- Design solutions that increase retention, revenue, and operational clarity
