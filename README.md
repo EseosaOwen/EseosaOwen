@@ -18,16 +18,18 @@ Not just apps.
 My focus is simple:  
 Create technology that improves revenue visibility, customer retention, and long-term business stability.
 
----
+<br/>
 
-<h1 align="center">🚀 Projects</h1>
+
+<h2 align="center">🚀 Projects</h2>
 
 - **Involey** – A vendor growth platform focused on revenue tracking, insights, and professional operations.
 - **Customer Retention System** – A structured retention engine for restaurants and service businesses.
 - **E-Commerce App** – Commerce infrastructure built for scalable online sales.
----
 
-<h1 align="center">⚡ Tech Stack</h1>
+<br/>
+
+<h2 align="center" border="solid 1px transparent">⚡ Tech Stack</h2>
 
 <div align="center">
 
@@ -46,9 +48,9 @@ Create technology that improves revenue visibility, customer retention, and long
 
 </div>
 
----
+<br/>
 
-<h1 align="center">🎯 Mission</h1>
+<h2 align="center">🎯 Mission</h2>
 
 - Build business infrastructure, not just features  
 - Help vendors transition from manual operations to structured systems  
