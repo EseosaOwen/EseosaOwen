@@ -1,33 +1,39 @@
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-%23000000.svg?style=flat&logo=Google-chrome&logoColor=white)](https://puissantdev.tech) 
+[![Website](https://img.shields.io/badge/Website-%23000000.svg?style=flat&logo=Google-chrome&logoColor=white)](https://owencreate.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/eseosa-owen/) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white)](https://x.com/PuissantDev) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/puissant_roi_owen/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/owen.create/)
 
 </div>
 
-<h2 align="center">Building Systems That Help Businesses Sell, Retain & Grow 🚀</h2>
+<h2 align="center">I build things that work. And I understand why they need to</h2>
 
-I design and build scalable digital systems that help service providers, vendors, restaurants, and modern businesses operate smarter.
+Full-stack developer who builds the kind of systems that help small businesses actually understand their growth, not just operate day to day.
 
-Not just websites.  
-Not just apps.  
-**Structured growth systems.**
-
-My focus is simple:  
-Create technology that improves revenue visibility, customer retention, and long-term business stability.
+4+ years building and selling software products, from client systems across hospitality, healthcare, and real estate to two independent SaaS products. First Class BSc Information Technology, Middlesex University London
 
 <br/>
 
+<h2 align="center">🚀 Current Projects</h2>
 
-<h2 align="center">🚀 Projects</h2>
-
-- **Involey** – A vendor growth platform focused on revenue tracking, insights, and professional operations.
-- **Customer Retention System** – A structured retention engine for restaurants and service businesses.
-- **E-Commerce App** – Commerce infrastructure built for scalable online sales.
+- [Involey](https://involey.puissantdev.tech) — a vendor growth platform giving small businesses revenue visibility, customer insight, and structured operations. 100+ signups.
+- Forvention — a cybersecurity awareness and training platform with role-based modules and compliance reporting. In active development.
+- Other client and job work
 
 <br/>
+
+<h2 align="center">🚀 Other Projects</h2>
+
+- **Customer Retention System** — a structured retention engine for restaurants, built around behavioural psychology to turn one-time visitors into repeat customers. Sold to multiple clients through direct outreach.
+- **E-Commerce App** — a full e-commerce system with checkout, payment integration, and a dedicated dashboard for backend operations.
+
+*Code for these is private, built for paying clients.*
+
+<h2 align="center">Recent public work</h2>
+
+- [`subscription-billing-api`](https://github.com/EseosaOwen/subscription-billing-api) — Subscription billing backend with Paystack integration, webhook verification, regional pricing, and automated recurring charges.
+- [`owencreate`](https://github.com/EseosaOwen/owencreate) — My personal site. Component-driven React architecture and a design system built from scratch.
 
 <h2 align="center" border="solid 1px transparent">⚡ Tech Stack</h2>
 
@@ -50,9 +56,8 @@ Create technology that improves revenue visibility, customer retention, and long
 
 <br/>
 
-<h2 align="center">🎯 Mission</h2>
+<h2 align="center">🎯 What I Care About</h2>
 
-- Build business infrastructure, not just features  
-- Help vendors transition from manual operations to structured systems  
-- Create scalable SaaS products with global potential  
-- Design solutions that increase retention, revenue, and operational clarity
+- Building systems that give businesses real visibility into their growth
+- Helping vendors and SMEs move from manual chaos to structured operations
+- Shipping products people actually use, not just demos
